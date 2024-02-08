@@ -74,6 +74,14 @@ where:
 <br />
 Unlike most other scripts that utilize Scipy, here I implement my own Associated Legendre and Laguerre polynomials for the construction of Radial and Harmonic functions. 
 <br />
+The Associated Laguerre polynomial is given by relation:
+<br />
+<p>
+$$
+ \large L_n^{(\alpha)}(x) = \sum_{m=0}^{n} (-1)^m \binom{n+\alpha}{n-m} \frac{x^m}{m!}
+$$
+</p>
+<br />
 The Associated Legendre polynomial is constructed from the Legendre polynomial using the following relation:
 <br />
 <p>
@@ -88,20 +96,3 @@ $$
 \large P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x
 $$
 </p>
-Utilization of Sympy allows calculating m'th derivative of l'th Legendre polynomial and as such the derivative can be viewed (printed).
-<br />
-For example: setting l=8 , m=4 gives:
-<p>
-$$
-\large P_{8}(x) = \frac{1}{128}(6435x^8 - 12012x^6 + 6930x^4 + 1260x^2 + 35)
-$$ 
-</p>
-Printing out the 4'th derivative using symbolic differentiation gives:
-
-<p>
-$$
-0.0803571428571429 \left(1 - x^2\right) \left(50050 x^2 \left(3x^2 - 1\right) + 3003 x^2 \left(5x^2 - 3\right) + 8580 x^2 \left(7x^2 - 3\right) + 27300 x^2 \left(11x^2 - 3\right) + 40425 x^2 \left(13x^2 - 3\right) - 13246 x^2 + 16170\right)
-5)
-$$ 
-</p>
-

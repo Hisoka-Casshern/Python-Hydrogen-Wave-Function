@@ -82,7 +82,7 @@ where Legendre polynomials are defined by:
 <br />
 Rodrigues' formula:
 <p>
- \; \;  P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; 
+ $$ P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; $$
 </p>
 or by Bonnet's recursion formula:
 <p>

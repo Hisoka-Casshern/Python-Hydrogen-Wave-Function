@@ -67,10 +67,14 @@ where:
 - The other terms involve normalization and rotations
 <br />
 <br />
+<br />
 Unlike most other scripts that utilize Scipy, here I implement my own Associated Legendre and Laguerre polynomials for the construction of Radial and Harmonic functions. 
 <br />
 The Associated Legendre polynomial is constructed from the Legendre polynomial using the following relation:
+<br />
+<p>
 $$P_{l}^{m}(x) = (1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x)$$
-
+$$
+</p>
 
 

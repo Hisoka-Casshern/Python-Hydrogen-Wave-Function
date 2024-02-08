@@ -47,7 +47,7 @@ The full Normalized Angular Component of the Hydrogen Wave Function is given by 
 
 <p>
 $$
-Y_{lm}(\theta, \phi) = \sqrt{\frac{(2l+1)}{4\pi} \frac{(l-m)!}{(l+m)!}} P_{l}^{m}(\cos(\theta)) e^{im\phi}
+ \Large Y_{lm}(\theta, \phi) = \sqrt{\frac{(2l+1)}{4\pi} \frac{(l-m)!}{(l+m)!}} P_{l}^{m}(\cos(\theta)) e^{im\phi}
 $$
 </p>
 where:

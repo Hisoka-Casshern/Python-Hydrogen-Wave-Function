@@ -18,7 +18,7 @@ Where:
 The probability density is defined as:
 <p>
 $$
-\large \rho = |\mathbf{\Psi}|^2
+\large \mathbf{\rho} = |\mathbf{\Psi}|^2
 $$
 </p>
 

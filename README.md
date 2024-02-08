@@ -80,7 +80,7 @@ $$
 
 where Legendre polynomials are defined by:
 <br />
-                                Rodrigues' formula:
+                             Rodrigues' formula:
 <p>
  $$ P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; $$
 </p>

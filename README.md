@@ -80,16 +80,17 @@ $$
 
 where Legendre polynomials are defined by:
 <br />
-                             Rodrigues' formula:
-<p>
- $$ P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; $$
-</p>
-
-                              Bonnet's recursion formula:
-
+Rodrigues' formula:
 <p>
 $$
-P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x
+\large P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; 
+$$
+</p>
+
+Bonnet's recursion formula:
+<p>
+$$
+\large P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x
 $$
 </p>
 

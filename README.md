@@ -15,7 +15,6 @@ Where:
 
 The probability density is defined as:
 $$
-\Large \mathbf{\Psi_{nlm}(r, \theta, \phi)} = \mathbf{R_{nl}(r)} \cdot \mathbf{Y_{lm}(\theta, \phi)}
+\Large \rho = |\mathbf{\Psi}|^2
 $$
-
 

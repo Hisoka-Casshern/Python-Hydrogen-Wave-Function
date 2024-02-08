@@ -84,7 +84,7 @@ $$
 </p>
 <p>
 $$
-\large \; \;  with\; \; L_0^{(\alpha)}(x) = 1, \; L_1^{(\alpha)}(x) = 1 + \alpha - x
+\large \; \;  \; \; L_0^{(\alpha)}(x) = 1, \; L_1^{(\alpha)}(x) = 1 + \alpha - x
 $$
 </p>
 
@@ -98,6 +98,6 @@ $$
 </p>
 <p>
 $$
-\large with\; P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\;  \quad P_{1}(x) = x
+\large \; P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\;  \quad P_{1}(x) = x
 $$
 </p>

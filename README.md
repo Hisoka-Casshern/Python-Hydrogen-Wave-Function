@@ -92,7 +92,7 @@ $$
 
 <br />
 The Associated Legendre polynomial is constructed from the Legendre polynomial using Bonnet's recursion relation:
-<br />
+<br/>
 <p>
 $$
  \large P_{l}^{m}(x) = (-1)^m(1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x) 
@@ -104,8 +104,10 @@ $$
 $$
 </p>
 
+<br/>
+<br/>
+Some Orbitals:
 <br />
-Some Plots Of Orbitals:
 <p align="center">
-  <img src="Hydrogen Images/2.png" width="300" height=400 style="margin-right: 50px;">  <img src="ydrogen Images/3.png" width="300" height=400>
+  <img src="Hydrogen Images/2.png" width="500" height=500 style="margin-right: 50px;">  <img src="ydrogen Images/3.png" width="500" height=500>
 </p>

@@ -16,6 +16,7 @@ Where:
 The probability density is defined as:
 
 <p>
+<br />
 $$
 \Large \rho = |\mathbf{\Psi}|^2
 $$

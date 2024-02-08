@@ -90,11 +90,18 @@ $$
 </p>
 Utilization of Sympy allows calculating m'th derivative of l'th Legendre polynomial and as such the derivative can be viewed (printed).
 <br />
-For example: setting l=8 gives:
+For example: setting l=8 , m=4 gives:
 <p>
 $$
-\large P_{8}(x) = \frac{1}{128} x (6435x^8 - 12012x^6 + 6930x^4 + 1260x^2 + 35)
-$$
+\large P_{8}(x) = \frac{1}{128}(6435x^8 - 12012x^6 + 6930x^4 + 1260x^2 + 35)
+$$ 
 </p>
+Printing out the 4'th derivative using symbolic differentiation gives:
 
+<p>
+$$
+0.0803571428571429 \left(1 - x^2\right) \left(50050 x^2 \left(3x^2 - 1\right) + 3003 x^2 \left(5x^2 - 3\right) + 8580 x^2 \left(7x^2 - 3\right) + 27300 x^2 \left(11x^2 - 3\right) + 40425 x^2 \left(13x^2 - 3\right) - 13246 x^2 + 16170\right)
+5)
+$$ 
+</p>
 

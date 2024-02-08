@@ -12,7 +12,10 @@ Where:
 - Ψ<sub>nlm</sub>(r, θ, φ) is the wave function of the hydrogen atom,
 - R<sub>nl</sub>(r) is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),
 - Y<sub>lm</sub>(θ, φ) is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates θ (theta) and φ (phi).
-<p>This is a paragraph.</p>
+<p>T$$
+\Large \rho = |\mathbf{\Psi}|^2
+$$
+</p>
 The probability density is defined as:
 $$
 \Large \rho = |\mathbf{\Psi}|^2

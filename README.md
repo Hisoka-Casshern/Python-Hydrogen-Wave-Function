@@ -7,7 +7,9 @@ The wave function for a hydrogen atom is given by:
 $$
 \Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)
 $$
-
+<p $$
+\Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)
+$$>text</p>
 Where:
 - **Ψ<sub>nlm</sub>(r, θ, φ)** is the wave function of the hydrogen atom,
 - **R<sub>nl</sub>(r)** is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),

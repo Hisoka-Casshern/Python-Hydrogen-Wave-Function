@@ -24,7 +24,7 @@ Where:
 The probability density is defined as:
 <p>
 $$
-\large \mathbf{\rho} = |\mathbf{\Psi}|^2
+\Large \mathbf{\rho} = |\mathbf{\Psi}|^2
 $$
 </p>
 

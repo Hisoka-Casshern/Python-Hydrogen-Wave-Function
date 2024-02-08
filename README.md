@@ -112,11 +112,11 @@ Some Orbitals:
   <img src="Hydrogen Images/2.png" width="400" height=400 ">  <img src="Hydrogen Images/3.png" width="400" height=400>
 </p>
 <p align="center">
-  <img src="Hydrogen Images/4.png" width="430" height=430 ">  <img src="Hydrogen Images/5.png" width="430" height=430>
+  <img src="Hydrogen Images/4.png" width="400" height=400 ">  <img src="Hydrogen Images/5.png" width="400" height=400>
 </p>
 <p align="center">
-  <img src="Hydrogen Images/6.png" width="430" height=430 ">  <img src="Hydrogen Images/7.png" width="430" height=430>
+  <img src="Hydrogen Images/6.png" width="400" height=400 ">  <img src="Hydrogen Images/7.png" width="400" height=400>
 </p>
 <p align="center">
-  <img src="Hydrogen Images/8.png" width="430" height=430 ">  <img src="Hydrogen Images/9.png" width="430" height=430>
+  <img src="Hydrogen Images/8.png" width="400" height=400 ">  <img src="Hydrogen Images/9.png" width="400" height=400>
 </p>

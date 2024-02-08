@@ -7,5 +7,5 @@ $$\Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)$$
 
 
 $$( \Psi_{nlm}(r, \theta, \phi) \)$$ is the wave function of the hydrogen atom,
-- \( R_{nl}(r) \) is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),
-- \( Y_{lm}(\theta, \phi) \) is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates \(\theta\) (theta) and \(\phi\) (phi).
+$$( R_{nl}(r) \)$$ is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),
+$$( Y_{lm}(\theta, \phi) \)$$ is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates \(\theta\) (theta) and \(\phi\) (phi).

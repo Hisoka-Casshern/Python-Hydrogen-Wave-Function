@@ -2,7 +2,7 @@
 Here I calcluate and plot different electron probability density distributions for Hydrogen Wave Function. Code is in Python and only Numpy and Sympy are used to have better insight into different Legendre and Lagurre polynomials.<br />
 
 The wave function for a hydrogen atom is given by:
-
+$$
 
 \Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)
 

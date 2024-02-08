@@ -87,6 +87,7 @@ $$
 Utilization of Sympy allows calculating m'th derivative of l'th Legendre polynomial and as such the derivative can be viewed (printed).
 <br />
 For example: setting l=8 gives:
+<p>
 $$
 \large P_{8}(x) = \frac{1}{128} x (6435x^8 - 12012x^6 + 6930x^4 + 1260x^2 + 35)
 $$

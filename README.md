@@ -3,9 +3,9 @@ Here I calcluate and plot different electron probability density distributions f
 
 The wave function for a hydrogen atom is given by:
 
-$$
+
 \Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)
-$$
+
 <br />
 where:
 $$

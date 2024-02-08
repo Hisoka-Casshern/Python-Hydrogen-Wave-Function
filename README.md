@@ -79,7 +79,7 @@ The Associated Laguerre polynomial is given by relation:
 <br />
 <p>
 $$
- \large (n + 1)L_{n+1}^{(\alpha)}(x) = ((2n + 1 + \alpha - x)L_n^{(\alpha)}(x) - (n + \alpha)L_{n-1}^{(\alpha)}(x)) , \; \;  with\; \; L_0^{(\alpha)}(x) = 1, \; L_1^{(\alpha)}(x) = 1 + \alpha - x
+ \large (n + 1)L_{n+1}^{(\alpha)}(x) = ((2n + 1 + \alpha - x)L_n^{(\alpha)}(x) - (n + \alpha)L_{n-1}^{(\alpha)}(x)) , \\ \; \;  with\; \; L_0^{(\alpha)}(x) = 1, \; L_1^{(\alpha)}(x) = 1 + \alpha - x
 $$
 </p>
 

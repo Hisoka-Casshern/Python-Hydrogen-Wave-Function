@@ -11,8 +11,7 @@ $$
 \Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)
 $$>text</p>
 Where:
-- **Ψ<sub>nlm</sub>(r, θ, φ)** is the wave function of the hydrogen atom,
+- \Psi_{nlm}(r, \theta, \phi) is the wave function of the hydrogen atom,
 - **R<sub>nl</sub>(r)** is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),
 - **Y<sub>lm</sub>(θ, φ)** is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates θ (theta) and φ (phi).
 
-This approach utilizes Markdown's support for HTML-like tags (e.g., `<sub>` for subscripts) in plain text descriptions to maintain a clean and readable format. While this doesn't directly solve the issue of centering LaTeX rendered text, it provides a clear, accessible way to describe the components of the hydrogen atom's wave function without relying solely on LaTeX formatting, which can be unpredictable in GitHub's Markdown renderer.

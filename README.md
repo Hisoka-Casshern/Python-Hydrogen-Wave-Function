@@ -1,6 +1,7 @@
 ===============================
 # Python-Hydrogen-Wave-Function
 ===============================
+<br />
 Here I calculate and plot different electron probability density distributions for the Hydrogen Wave Function. The code is in Python, and only Numpy and Sympy are used to have better insight into different Legendre and Laguerre polynomials.
 
 The wave function for a Hydrogen atom is given by:

@@ -3,7 +3,7 @@
 
 <br />
 Here I calculate and plot different electron probability density distributions for the Hydrogen Wave Function. The code is in Python, and only Numpy and Sympy are used to have better insight into different Legendre and Laguerre polynomials.
-<pre>
+
 The wave function for a Hydrogen atom is given by:
 <p>
 $$
@@ -15,7 +15,7 @@ Where:
 - Ψ<sub>nlm</sub>(r, θ, φ) is the wave function of the hydrogen atom,
 - R<sub>nl</sub>(r) is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),
 - Y<sub>lm</sub>(θ, φ) is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates θ (theta) and φ (phi).
-</pre>pre>
+
 <br />
 The probability density is defined as:
 <p>
@@ -80,13 +80,13 @@ $$
 
 where Legendre polynomials are defined by:
 <br />
-Rodrigues' formula:
+                                Rodrigues' formula:
 <p>
  $$ P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; $$
 </p>
-<pre>
-            Bonnet's recursion formula:
-</pre>
+
+                              Bonnet's recursion formula:
+
 <p>
 $$
 P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x

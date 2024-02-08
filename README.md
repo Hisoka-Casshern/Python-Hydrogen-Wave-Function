@@ -9,6 +9,7 @@
 Here I calculate and plot different electron probability density distributions for the Hydrogen Wave Function. The code is in Python, and only Numpy and Sympy are used to have better insight into different Legendre and Laguerre polynomials.
 
 The wave function for a Hydrogen atom is given by:
+<br />
 <p>
 $$
 \Large \mathbf{\Psi_{nlm}(r, \theta, \phi)} = \mathbf{R_{nl}(r)} \cdot \mathbf{Y_{lm}(\theta, \phi)}
@@ -33,7 +34,7 @@ The full Normalized Radial Component of the Hydrogen Wave Function is given by :
 
 <p>
 $$
- \large R_{nl}(r)= \sqrt{\left(\frac{2}{na_0}\right)^3 \frac{(n-l-1)!}{2n(n+l)!}} \cdot e^{-\frac{r}{na_0}} \cdot \left(\frac{2r}{na_0}\right)^l \cdot L_{n-l-1}^{2l+1}\left(\frac{2r}{na_0}\right) 
+ \Large R_{nl}(r)= \sqrt{\left(\frac{2}{na_0}\right)^3 \frac{(n-l-1)!}{2n(n+l)!}} \cdot e^{-\frac{r}{na_0}} \cdot \left(\frac{2r}{na_0}\right)^l \cdot L_{n-l-1}^{2l+1}\left(\frac{2r}{na_0}\right) 
 $$
 </p>
 where:

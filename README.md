@@ -66,7 +66,7 @@ where:
 <br />
 - The other terms involve normalization and rotations
 <br />
-=====================================================================================================
+<br />
 Unlike most other scripts that utilize Scipy, here I implement my own Associated Legendre and Laguerre polynomials for the construction of Radial and Harmonic functions. 
 <br />
 The Associated Legendre polynomial is constructed from the Legendre polynomial using the following relation:

@@ -27,7 +27,7 @@ The full Normalized Radial Component of the Hydrogen Wave Function is given by :
 
 <p>
 $$
- \Large R_{nl}(r)= \sqrt{\left(\frac{2}{na_0}\right)^3 \frac{(n-l-1)!}{2n[(n+l)!]^3}} \cdot e^{-\frac{2r}{na_0}} \cdot \left(\frac{2r}{na_0}\right)^l \cdot L_{n-l-1}^{2l+1}\left(\frac{2r}{na_0}\right) 
+ \Large R_{nl}(r)= \sqrt{\left(\frac{2}{na_0}\right)^3 \frac{(n-l-1)!}{2n(n+l)!}} \cdot e^{-\frac{r}{na_0}} \cdot \left(\frac{2r}{na_0}\right)^l \cdot L_{n-l-1}^{2l+1}\left(\frac{2r}{na_0}\right) 
 $$
 </p>
 

@@ -31,10 +31,15 @@ $$
 $$
 </p>
 where:
+<br />
 - n is the principal quantum number,
+<br />
 - l is the angular momentum quantum number,
+<br />
 - r is the radial distance,
-- L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree \(n-l-1\) and order \(2l+1\),
+<br />
+- L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree (n-l-1) and order (2l+1)
+<br />
 - The term \(\sqrt{\left(\frac{2}{n}\right)^3 \frac{(n-l-1)!}{2n[(n+l)!]^3}}\) ensures normalization of the wave function,
 - \(e^{-\frac{r}{n}}\) is the exponential decay factor,
 - \(\left(\frac{2r}{n}\right)^l\) shows the radial dependence.

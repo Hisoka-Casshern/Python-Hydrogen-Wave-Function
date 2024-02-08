@@ -9,7 +9,7 @@ $$
 
 where:
 $$
-\Psi_{nlm}(r, \theta, \phi) is the wave function of the hydrogen atom,
+\Psi_{nlm}(r, \theta, \phi)
 $$
 - \( \Psi_{nlm}(r, \theta, \phi) \) is the wave function of the hydrogen atom,
 - \( R_{nl}(r) \) is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),

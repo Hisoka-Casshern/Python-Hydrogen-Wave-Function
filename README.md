@@ -13,4 +13,7 @@ Where:
 - R<sub>nl</sub>(r) is the radial component that depends on the principal quantum number \(n\) and the angular momentum quantum number \(l\),
 - Y<sub>lm</sub>(θ, φ) is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates θ (theta) and φ (phi).
 
-The wave function of the hydrogen atom in polar coordinates (r, θ, φ) is given by:
+The probability density is defined as:
+$$
+\Large \rho = |\mathbf{\Psi}|^2
+$$

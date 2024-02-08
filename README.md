@@ -78,19 +78,17 @@ $$
 $$
 </p>
 
-where Legendre polynomials are defined by:
-<br />
-Rodrigues' formula:
-<p>
-$$
-\large P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; 
-$$
-</p>
-
-Bonnet's recursion formula:
+where Legendre polynomials are defined by Bonnet's recursion formula:
 <p>
 $$
 \large P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x
+$$
+</p>
+Utilization of Sympy allows calculating m'th derivative of l'th Legendre polynomial and as such the derivative can be viewed (printed).
+<br />
+For example: setting l=8 gives:
+$$
+\large P_{8}(x) = \frac{1}{128} x (6435x^8 - 12012x^6 + 6930x^4 + 1260x^2 + 35)
 $$
 </p>
 

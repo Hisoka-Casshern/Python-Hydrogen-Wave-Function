@@ -5,7 +5,7 @@ Here I calculate and plot different electron probability density distributions f
 The wave function for a hydrogen atom is given by:
 
 $$
-**\Large \Psi_{nlm}(r, \theta, \phi) = R_{nl}(r) \cdot Y_{lm}(\theta, \phi)**
+\Large \mathbf{\Psi_{nlm}(r, \theta, \phi)} = \mathbf{R_{nl}(r)} \cdot \mathbf{Y_{lm}(\theta, \phi)}
 $$
 
 Where:

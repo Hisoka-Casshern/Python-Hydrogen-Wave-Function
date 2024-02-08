@@ -6,7 +6,7 @@ The wave function for a hydrogen atom is given by:
 
 $$
 \Large \mathbf{\Psi_{nlm}(r, \theta, \phi)} = \mathbf{R_{nl}(r)} \cdot \mathbf{Y_{lm}(\theta, \phi)}
-$$
+
 
 Where:
 - Ψ<sub>nlm</sub>(r, θ, φ) is the wave function of the hydrogen atom,
@@ -14,7 +14,7 @@ Where:
 - Y<sub>lm</sub>(θ, φ) is the spherical harmonic function that depends on the magnetic quantum number \(m\) and the angular coordinates θ (theta) and φ (phi).
 
 The probability density is defined as:
-$$
+
 \Large \rho = |\mathbf{\Psi}|^2
 $$
 

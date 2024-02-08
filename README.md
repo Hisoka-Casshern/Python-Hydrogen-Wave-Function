@@ -1,5 +1,6 @@
+===============================
 # Python-Hydrogen-Wave-Function
-
+===============================
 Here I calculate and plot different electron probability density distributions for the Hydrogen Wave Function. The code is in Python, and only Numpy and Sympy are used to have better insight into different Legendre and Laguerre polynomials.
 
 The wave function for a Hydrogen atom is given by:
@@ -60,8 +61,15 @@ where:
 <br />
 - θ is the polar and φ azimuthal angle
 <br />
-- P<sub>(l)</sub><sup>(m)</sup>cos(θ) is the associated Legendre polynomial of degree l and order m
+- P<sub>(l)</sub><sup>(m)</sup>cos(θ) is the associated Legendre polynomial of degree l and order m 
 <br />
 - The other terms involve normalization and rotations
+<br />
+=====================================================================================================
+Unlike most other scripts that utilize Scipy, here I implement my own Associated Legendre and Laguerre polynomials for the construction of Radial and Harmonic functions. 
+<br />
+The Associated Legendre polynomial is constructed from the Legendre polynomial using the following relation:
+$$P_{l}^{m}(x) = (1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x)$$
+
 
 

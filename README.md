@@ -74,7 +74,7 @@ The Associated Legendre polynomial is constructed from the Legendre polynomial u
 <br />
 <p>
 $$
- \large P_{l}^{m}(x) = (1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x) , \; \; where\; \;  P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l
+ \large P_{l}^{m}(x) = (-1)^m(1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x) , \; \; where\; \;  P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l
 $$
 </p>
 

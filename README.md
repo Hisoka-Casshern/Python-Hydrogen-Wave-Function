@@ -1,19 +1,10 @@
 
 # Python-Hydrogen-Wave-Function
 
-
-
 <br />
 <p align="center">
-  <img src="GameScreenshots/0.png" width="300" height="400">
+  <img src="HydrogenImages/1.png" width="300" height="400">
 </p>
-<p align="center">
-  <img src="GameScreenshots/1.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/2.png" width="300" height=400>
-</p>
-<p align="center">
-  <img src="GameScreenshots/3.png" width="300" height=400 style="margin-right: 50px;">  <img src="GameScreenshots/4.png" width="300" height=400>
-</p><br />
-
 
 <br />
 Here I calculate and plot different electron probability density distributions for the Hydrogen Wave Function. The code is in Python, and only Numpy and Sympy are used to have better insight into different Legendre and Laguerre polynomials.

@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <img src="HydrogenImages/1.png" width="300" height="400">
+  <img src="Hydrogen Images/1.png" width="300" height="400">
 </p>
 
 <br />

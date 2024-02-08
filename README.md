@@ -103,3 +103,9 @@ $$
 \large \; P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\;  \quad P_{1}(x) = x
 $$
 </p>
+
+<br />
+Some Plots Of Orbitals:
+<p align="center">
+  <img src="Hydrogen Images/2.png" width="300" height=400 style="margin-right: 50px;">  <img src="ydrogen Images/3.png" width="300" height=400>
+</p>

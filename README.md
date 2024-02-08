@@ -79,7 +79,7 @@ The Associated Laguerre polynomial is given by relation:
 <br />
 <p>
 $$
- \large L_n^{(\alpha)}(x) = \sum_{m=0}^{n} (-1)^m \binom{n+\alpha}{n-m} \frac{x^m}{m!}
+ \large (n + 1)L_{n+1}^{(\alpha)}(x) = ((2n + 1 + \alpha - x)L_n^{(\alpha)}(x) - (n + \alpha)L_{n-1}^{(\alpha)}(x)) , \; \;  with\; \; L_0^{(\alpha)}(x) = 1, \; L_1^{(\alpha)}(x) = 1 + \alpha - x
 $$
 </p>
 
@@ -94,6 +94,6 @@ $$
 where Legendre polynomials are defined by Bonnet's recursion formula:
 <p>
 $$
-\large P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x
+\large P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\;  \quad P_{1}(x) = x
 $$
 </p>

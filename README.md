@@ -38,7 +38,7 @@ where:
 <br />
 - r is the radial distance,
 <br />
-- L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree (n-l-1) and order (2l+1) evaluated at the raidus
+- L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree (n-l-1) and order (2l+1) evaluated at the radius
 <br />
 - The other terms involve normalization and exponential decay
 
@@ -54,14 +54,14 @@ $$
 </p>
 where:
 <br />
-- n is the principal quantum number,
-<br />
 - l is the angular momentum quantum number,
 <br />
-- r is the radial distance,
+- m is the magnetic quantum number
 <br />
-- L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree (n-l-1) and order (2l+1) evaluated at the raidus
+- θ is the polar and φ azimuthal angle
 <br />
-- The other terms involve normalization and exponential decay
+- P<sub>(l)</sub><sup>(m)</sup>cos(θ) is the associated Legendre polynomial of degree l and order m
+<br />
+- The other terms involve normalization and rotations
 
 

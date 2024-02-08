@@ -112,6 +112,9 @@ Some Orbitals:
   <img src="Hydrogen Images/2.png" width="450" height=450 ">  <img src="Hydrogen Images/3.png" width="450" height=450>
 </p>
 <p align="center">
+   <img src="Hydrogen Images/3.png" width="450" height=450>
+</p>
+<p align="center">
   <img src="Hydrogen Images/4.png" width="450" height=450 ">  <img src="Hydrogen Images/5.png" width="450" height=450>
 </p>
 <p align="center">

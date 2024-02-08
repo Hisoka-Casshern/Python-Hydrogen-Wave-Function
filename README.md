@@ -23,18 +23,18 @@ $$
 Where:
 
 - \( \Psi_{n,\ell,m}(r,\theta,\phi) \) is the wave function of the electron.
-- \( R_{n,\ell}(r) \) is the radial component that depends only on the distance from the nucleus, \(r\).
-- \( Y_{\ell}^{m}(\theta,\phi) \) is the spherical harmonics which account for the angular part of the wave function and depend on the angles \( \theta \) (theta) and \( \phi \) (phi).
+- \( R_{n,\ell}(r) \) is the radial component that depends only on the distance from the nucleus, \( r \).
+- \( Y_{\ell}^{m}(\theta,\phi) \) are the spherical harmonics which account for the angular part of the wave function and depend on the angles \( \theta \) and \( \phi \).
 - \( n \) is the principal quantum number.
 - \( \ell \) is the azimuthal quantum number (or angular momentum quantum number).
 - \( m \) is the magnetic quantum number.
 
 Each of these components plays a crucial role in describing the state of an electron in a hydrogen atom.
 
-## Radial Component \( R_{n,\ell}(r) \)
+**Radial Component \( R_{n,\ell}(r) \)**
 
 This part of the wave function describes how the amplitude of the wave function changes with distance from the nucleus. It involves the Laguerre polynomials and the effective nuclear charge.
 
-## Spherical Harmonics \( Y_{\ell}^{m}(\theta,\phi) \)
+**Spherical Harmonics \( Y_{\ell}^{m}(\theta,\phi) \)**
 
 The spherical harmonics describe the angular part of the wave function, which determines the shape of the electron's orbit around the nucleus. They depend on the azimuthal and magnetic quantum numbers, \( \ell \) and \( m \), which describe the electron's angular momentum.

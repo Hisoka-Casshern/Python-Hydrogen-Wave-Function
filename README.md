@@ -84,7 +84,9 @@ Rodrigues' formula:
 <p>
  $$ P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; $$
 </p>
-or by Bonnet's recursion formula:
+<pre>
+            Bonnet's recursion formula:
+</pre>
 <p>
 $$
 P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x

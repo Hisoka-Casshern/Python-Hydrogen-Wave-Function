@@ -74,19 +74,21 @@ The Associated Legendre polynomial is constructed from the Legendre polynomial u
 <br />
 <p>
 $$
- \large P_{l}^{m}(x) = (-1)^m(1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x) , \; \; where\; \;  P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l
+ \large P_{l}^{m}(x) = (-1)^m(1-x^2)^{\frac{m}{2}} \frac{d^m}{dx^m}P_{l}(x) 
 $$
 </p>
 
+where Legendre polynomials are defined by:
+<br />
+Rodrigues' formula:
+<p>
+ \; \;  P_{l}(x) = \frac{1}{2^l l!} \frac{d^l}{dx^l}(x^2-1)^l \; \; 
+</p>
+or by Bonnet's recursion formula:
 <p>
 $$
-P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x)
+P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x) ,\; \;  with\; \;  P_{0}(x) = 1,\; \;  \quad P_{1}(x) = x
 $$
 </p>
-with the initial conditions:
-<p>
-$$
-P_{0}(x) = 1, \quad P_{1}(x) = x
-$$
-</p>
+
 

@@ -109,5 +109,5 @@ $$
 Some Orbitals:
 <br />
 <p align="center">
-  <img src="Hydrogen Images/2.png" width="500" height=500 style="margin-right: 50px;">  <img src="ydrogen Images/3.png" width="500" height=500>
+  <img src="Hydrogen Images/2.png" width="500" height=500 style="margin-right: 5px;">  <img src="ydrogen Images/3.png" width="500" height=500>
 </p>

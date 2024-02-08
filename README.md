@@ -41,3 +41,25 @@ where:
 - L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree (n-l-1) and order (2l+1) evaluated at the raidus
 <br />
 - The other terms involve normalization and exponential decay
+
+<br />
+The full Normalized Angular Component of the Hydrogen Wave Function is given by :
+
+<p>
+$$
+Y_{lm}(\theta, \phi) = \sqrt{\frac{(2l+1)}{4\pi} \frac{(l-m)!}{(l+m)!}} P_{l}^{m}(\cos(\theta)) e^{im\phi}
+$$
+</p>
+where:
+<br />
+- n is the principal quantum number,
+<br />
+- l is the angular momentum quantum number,
+<br />
+- r is the radial distance,
+<br />
+- L<sub>(n-l-1)</sub><sup>(2l+1)</sup>(x) represents the associated Laguerre polynomial of degree (n-l-1) and order (2l+1) evaluated at the raidus
+<br />
+- The other terms involve normalization and exponential decay
+
+

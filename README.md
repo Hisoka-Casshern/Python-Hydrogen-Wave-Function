@@ -78,4 +78,15 @@ $$
 $$
 </p>
 
+<p>
+$$
+P_{l}(x) = \frac{2l-1}{l} x P_{l-1}(x) - \frac{l-1}{l} P_{l-2}(x)
+$$
+</p>
+with the initial conditions:
+<p>
+$$
+P_{0}(x) = 1, \quad P_{1}(x) = x
+$$
+</p>
 
